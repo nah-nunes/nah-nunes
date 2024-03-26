@@ -14,7 +14,7 @@
 <div align="center">
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-A56da6?style=for-the-badge&logo=JavaScript&logoColor=e6a513) ![NODEJS](https://img.shields.io/badge/NODEJS-A56da6?style=for-the-badge&logo=NODE.JS&logoColor=e6a513)  ![React](https://img.shields.io/badge/React-A56da6?style=for-the-badge&logo=REACT&logoColor=e6a513)[![Git](https://img.shields.io/badge/Git-A56da6?style=for-the-badge&logo=git&logoColor=e6a513)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-A56da6?style=for-the-badge&logo=github&logoColor=e6a513)](https://docs.github.com/)![Python](https://img.shields.io/badge/Python-A56da6?style=for-the-badge&logo=Python&logoColor=e6a513) ![SQL](https://img.shields.io/badge/MySQL-A56da6?style=for-the-badge&logo=MYSQL&logoColor=e6a513) 
+![JavaScript](https://img.shields.io/badge/JavaScript-A56da6?style=for-the-badge&logo=JavaScript&logoColor=e6a513) ![NODEJS](https://img.shields.io/badge/NODEJS-A56da6?style=for-the-badge&logo=NODE.JS&logoColor=e6a513)  ![React](https://img.shields.io/badge/React-A56da6?style=for-the-badge&logo=REACT&logoColor=e6a513) [![Git](https://img.shields.io/badge/Git-A56da6?style=for-the-badge&logo=git&logoColor=e6a513)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-A56da6?style=for-the-badge&logo=github&logoColor=e6a513)](https://docs.github.com/) ![Python](https://img.shields.io/badge/Python-A56da6?style=for-the-badge&logo=Python&logoColor=e6a513) ![SQL](https://img.shields.io/badge/MySQL-A56da6?style=for-the-badge&logo=MYSQL&logoColor=e6a513) 
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nah-nunes&bg_color=181818&color=e6a513&line=A56DA6&point=B282B3&area=true&hide_border=true)
